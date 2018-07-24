@@ -8,7 +8,7 @@ public class LogicCigarParty {
         if (cigars >= 40 && cigars <= 60) {
             return true;
 
-        } else if (isWeekend == true && cigars > 60) {
+        } else if (isWeekend  && cigars > 40) {
             return true;
         }
         return false;

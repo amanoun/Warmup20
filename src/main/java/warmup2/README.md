@@ -41,7 +41,7 @@ deFront("Hello") → "llo"
 deFront("java") → "va"
 deFront("away") → "aay"
 
-### String CigarParty
+### Logic CigarParty
 
 When squirrels get together for a party, they like to have cigars. A squirrel party is successful when the number of cigars is between 40 and 60, inclusive. Unless it is the weekend, in which case there is no upper bound on the number of cigars. Return true if the party with the given values is successful, or false otherwise.
 
@@ -49,3 +49,12 @@ When squirrels get together for a party, they like to have cigars. A squirrel pa
 cigarParty(30, false) → false
 cigarParty(50, false) → true
 cigarParty(70, true) → true
+
+### Logic specialEleven 
+
+We'll say a number is special if it is a multiple of 11 or if it is one more than a multiple of 11. Return true if the given non-negative number is special. Use the % "mod" operator -- see Introduction to Mod
+
+
+specialEleven(22) → true
+specialEleven(23) → true
+specialEleven(24) → false
