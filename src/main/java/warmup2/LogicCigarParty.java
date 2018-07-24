@@ -1,6 +1,6 @@
 package warmup2;
 
-public class StringCigarParty {
+public class LogicCigarParty {
 
     public boolean cigarParty(int cigars, boolean isWeekend) {
 
