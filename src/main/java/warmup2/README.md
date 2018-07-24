@@ -58,3 +58,11 @@ We'll say a number is special if it is a multiple of 11 or if it is one more tha
 specialEleven(22) → true
 specialEleven(23) → true
 specialEleven(24) → false
+
+### Logic fizzString
+Given a string str, if the string starts with "f" return "Fizz". If the string ends with "b" return "Buzz". If both the "f" and "b" conditions are true, return "FizzBuzz". In all other cases, return the string unchanged.
+
+
+fizzString("fig") → "Fizz"
+fizzString("dib") → "Buzz"
+fizzString("fib") → "FizzBuzz"
