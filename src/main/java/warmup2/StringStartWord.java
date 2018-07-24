@@ -3,6 +3,7 @@ package warmup2;
 public class StringStartWord {
     public String startWord(String str, String word) {
 
+
         if (str.length() == 0) {
             return "";
         }

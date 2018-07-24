@@ -10,7 +10,7 @@ public class LogicCigarPartyTest {
 
     @Test
     public void cigarPartyShouldReturnFalseWhen30AndWeekendFalse() {
-        assertEquals(false, logicCigarParty.cigarParty(30, false));
+        assertFalse( logicCigarParty.cigarParty(30, false));
     }
 
     @Test
