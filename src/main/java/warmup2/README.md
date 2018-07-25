@@ -104,3 +104,13 @@ Given an int array length 3, if there is a 2 in the array immediately followed b
 fix23([1, 2, 3]) → [1, 2, 0]
 fix23([2, 3, 5]) → [2, 0, 5]
 fix23([1, 2, 1]) → [1, 2, 1]
+
+### Array maxTrible
+
+Given an array of ints of odd length, look at the first, last, and middle values in the array and return the largest. The array length will be a least 1.
+
+
+maxTriple([1, 2, 3]) → 3
+maxTriple([1, 5, 3]) → 5
+maxTriple([5, 2, 3]) → 5
+
