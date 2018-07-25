@@ -122,3 +122,12 @@ Given 2 int arrays, a and b, of any length, return a new array with the first el
 front11([1, 2, 3], [7, 9, 8]) → [1, 7]
 front11([1], [2]) → [1, 2]
 front11([1, 7], []) → [1]
+
+### Logic2 makeBricks
+
+We want to make a row of bricks that is goal inches long. We have a number of small bricks (1 inch each) and big bricks (5 inches each). Return true if it is possible to make the goal by choosing from the given bricks. This is a little harder than it looks and can be done without any loops.
+
+
+makeBricks(3, 1, 8) → true
+makeBricks(3, 1, 9) → false
+makeBricks(3, 2, 10) → true
