@@ -12,6 +12,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Warmup2$ArrayFront11Test.ic" NAME="ArrayFront11Test Coverage Results" MODIFIED="1532549336728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>warmup2.*</FILTER>
+    </SUITE>
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -464,7 +469,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AltFlightsTest">
+  <component name="RunManager" selected="JUnit.Logic2BlackJackTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -540,6 +545,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="Logic2BlackJackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Warmup2_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="warmup2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="warmup2" />
+      <option name="MAIN_CLASS_NAME" value="warmup2.Logic2BlackJackTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -597,9 +625,11 @@
       <item itemvalue="JUnit.AltFlightsTest" />
       <item itemvalue="JUnit.AltFlightsTest.shouldReturnKien" />
       <item itemvalue="JUnit.AltFlightsTest.shouldReturnCongrr" />
+      <item itemvalue="JUnit.Logic2BlackJackTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Logic2BlackJackTest" />
         <item itemvalue="JUnit.AltFlightsTest" />
         <item itemvalue="JUnit.AltFlightsTest.shouldReturnCongrr" />
         <item itemvalue="JUnit.AltFlightsTest.shouldReturnKien" />

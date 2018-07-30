@@ -141,3 +141,13 @@ For this problem, we'll round an int value up to the next multiple of 10 if its 
 roundSum(16, 17, 18) → 60
 roundSum(12, 13, 14) → 30
 roundSum(6, 4, 4) → 10
+
+
+### Logic2 blackJack
+
+Given 2 int values greater than 0, return whichever value is nearest to 21 without going over. Return 0 if they both go over.
+
+
+blackjack(19, 21) → 21
+blackjack(21, 19) → 21
+blackjack(19, 22) → 19s
