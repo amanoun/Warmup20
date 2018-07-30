@@ -171,3 +171,13 @@ Given two strings, return true if either of the strings appears at the very end 
 endOther("Hiabc", "abc") → true
 endOther("AbC", "HiaBc") → true
 endOther("abc", "abXabc") → true
+
+### String2 BobThere
+
+Return true if the given string contains a "bob" string, but where the middle 'o' char can be any char.
+
+
+bobThere("abcbob") → true
+bobThere("b9b") → true
+bobThere("bac") → false
+
