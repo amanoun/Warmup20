@@ -151,3 +151,14 @@ Given 2 int values greater than 0, return whichever value is nearest to 21 witho
 blackjack(19, 21) → 21
 blackjack(21, 19) → 21
 blackjack(19, 22) → 19s
+
+### Logic 2 evenlySpaced 
+
+
+Given three ints, a b c, one of them is small, one is medium and one is large. Return true if the three values are evenly spaced, so the difference between small and medium is the same as the difference between medium and large.
+
+
+evenlySpaced(2, 4, 6) → true
+evenlySpaced(4, 6, 2) → true
+evenlySpaced(4, 6, 3) → false
+s
