@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 
 public class String2BobThereTest {
 
-        String2BobThere string2BobThere =  new String2BobThere();
+    private String2BobThere string2BobThere = new String2BobThere();
 
     @Test
     public void bobThereShouldReturnTrueIfTheStringContainsBobWhenAbcbobIsPassed() {
@@ -25,11 +25,13 @@ public class String2BobThereTest {
         assertFalse(string2BobThere.bobThere("bac"));
 
     }
+
     @Test
     public void bobThereShouldReturnTrueIfTheStringContainsBobWhen123abcbcdbabxyzIsPassed() {
         assertTrue(string2BobThere.bobThere("123abcbcdbabxyz"));
 
     }
+
     @Test
     public void bobThereShouldReturnFalseIfTheStringDoesntContainsBobWhenBbcIsPassed() {
         assertFalse(string2BobThere.bobThere("bbc"));

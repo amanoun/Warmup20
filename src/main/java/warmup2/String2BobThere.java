@@ -1,20 +1,20 @@
 package warmup2;
 
-public class String2BobThere {
+class String2BobThere {
 
-    public boolean bobThere(String str) {
+    boolean bobThere(String str) {
 
         int length = str.length();
-        
-        if (length<=2){
+
+        if (length <= 2) {
             return false;
         }
 
 
-
         for (int i = 0; i < length - 1; i++) {
 
-            if (str.charAt(i)=='b' && i+2<length && str.charAt(i+2)=='b') {
+            if ("b".equals(Character.toString(str.charAt(i))) && i + 2 < length &&
+                    "b".equals(Character.toString(str.charAt(i + 2)))) {
 
                 return true;
             }
