@@ -37,4 +37,8 @@ public class String2GetSandwishTest {
     public void getSandwishSHouldReturnBreadbreadWhenBreadbreadbreadbreadIsPassed() {
         assertEquals("breadbread", string2GetSandwish.getSandwish("breadbreadbreadbread"));
     }
+    @Test
+    public void getSandwishSHouldReturnBreadbreadWhenXyzbreadbreadbreadbreadxyzIsPassed() {
+        assertEquals("breadbread", string2GetSandwish.getSandwish("xyzbreadbreadbreadbreadxyz"));
+    }
 }

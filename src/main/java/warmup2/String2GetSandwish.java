@@ -5,7 +5,7 @@ class String2GetSandwish {
 
         int begin = str.indexOf("bread");
         int end = str.lastIndexOf("bread");
-        if ((begin != end) && (end != -1)) {
+        if ((begin != end) ) {
 
             return str.substring(begin + 5, end);
         }
