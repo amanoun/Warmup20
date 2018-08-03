@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba00c13a-3f34-47cc-8e1e-ba67697e609d" name="Default" comment="" />
+    <list default="true" id="ba00c13a-3f34-47cc-8e1e-ba67697e609d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmup2/Array2CountEvens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmup2/Array2CountEvens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/warmup2/Array2CountEvensTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup2/Array2CountEvensTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,14 +27,26 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.3397924">
       <split-first>
-        <leaf>
-          <file leaf-file-name="AltFlights.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="Array2CountEvens.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/Array2CountEvens.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                <state relative-caret-position="119">
+                  <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="536">
+                    <caret line="230" column="25" selection-start-line="230" selection-start-column="25" selection-end-line="230" selection-end-column="25" />
+                  </first_editor>
+                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -39,14 +55,20 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="AltFlightsTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/AltFlightsTest.java">
+          <file leaf-file-name="ArraySum3.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/ArraySum3.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="187">
+                  <caret line="11" column="5" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="11" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Array2CountEvensTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/Array2CountEvensTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
                 </state>
               </provider>
             </entry>
@@ -63,6 +85,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -364,14 +389,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/warmup2/AltFlightsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java" />
+        <option value="$PROJECT_DIR$/src/test/java/warmup2/Array2CountEvensTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/warmup2/Array2CountEvens.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-254" />
+    <option name="y" value="-1080" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -379,8 +406,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -469,7 +496,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Logic2BlackJackTest">
+  <component name="RunManager" selected="JUnit.Array2CountEvensTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -498,8 +525,11 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
     </configuration>
-    <configuration name="AltFlightsTest.shouldReturnCongrr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Array2CountEvensTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Warmup2_test" />
       <extension name="coverage">
         <pattern>
@@ -510,8 +540,34 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="warmup2" />
-      <option name="MAIN_CLASS_NAME" value="warmup2.AltFlightsTest" />
-      <option name="METHOD_NAME" value="shouldReturnCongrr" />
+      <option name="MAIN_CLASS_NAME" value="warmup2.Array2CountEvensTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Array2CountEvensTest.countEvensShouldReturn0AsTheCountOfEvenNumbersWhenEmptyArrayIsPassed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Warmup2_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="warmup2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="warmup2" />
+      <option name="MAIN_CLASS_NAME" value="warmup2.Array2CountEvensTest" />
+      <option name="METHOD_NAME" value="countEvensShouldReturn0AsTheCountOfEvenNumbersWhenEmptyArrayIsPassed" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -521,8 +577,11 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
     </configuration>
-    <configuration name="AltFlightsTest.shouldReturnKien" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Array2CountEvensTest.countEvensShouldReturn3AsTheCountOfEvenNumbersWhen21234ArePassed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Warmup2_test" />
       <extension name="coverage">
         <pattern>
@@ -533,8 +592,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="warmup2" />
-      <option name="MAIN_CLASS_NAME" value="warmup2.AltFlightsTest" />
-      <option name="METHOD_NAME" value="shouldReturnKien" />
+      <option name="MAIN_CLASS_NAME" value="warmup2.Array2CountEvensTest" />
+      <option name="METHOD_NAME" value="countEvensShouldReturn3AsTheCountOfEvenNumbersWhen21234ArePassed" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
@@ -567,17 +626,20 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
@@ -623,16 +685,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.AltFlightsTest" />
-      <item itemvalue="JUnit.AltFlightsTest.shouldReturnKien" />
-      <item itemvalue="JUnit.AltFlightsTest.shouldReturnCongrr" />
       <item itemvalue="JUnit.Logic2BlackJackTest" />
+      <item itemvalue="JUnit.Array2CountEvensTest" />
+      <item itemvalue="JUnit.Array2CountEvensTest.countEvensShouldReturn0AsTheCountOfEvenNumbersWhenEmptyArrayIsPassed" />
+      <item itemvalue="JUnit.Array2CountEvensTest.countEvensShouldReturn3AsTheCountOfEvenNumbersWhen21234ArePassed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Array2CountEvensTest" />
+        <item itemvalue="JUnit.Array2CountEvensTest.countEvensShouldReturn3AsTheCountOfEvenNumbersWhen21234ArePassed" />
+        <item itemvalue="JUnit.Array2CountEvensTest.countEvensShouldReturn0AsTheCountOfEvenNumbersWhenEmptyArrayIsPassed" />
         <item itemvalue="JUnit.Logic2BlackJackTest" />
         <item itemvalue="JUnit.AltFlightsTest" />
-        <item itemvalue="JUnit.AltFlightsTest.shouldReturnCongrr" />
-        <item itemvalue="JUnit.AltFlightsTest.shouldReturnKien" />
       </list>
     </recent_temporary>
   </component>
@@ -650,21 +714,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AltFlightsTest_shouldReturnKien - 2018.07.23 at 17h 20m 46s.xml">
-      <configuration name="AltFlightsTest.shouldReturnKien" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AltFlightsTest_shouldReturnKien - 2018.07.23 at 17h 22m 10s.xml">
-      <configuration name="AltFlightsTest.shouldReturnKien" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AltFlightsTest - 2018.07.23 at 17h 22m 14s.xml">
-      <configuration name="AltFlightsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AltFlightsTest - 2018.07.23 at 17h 23m 41s.xml">
-      <configuration name="AltFlightsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AltFlightsTest - 2018.07.23 at 17h 23m 53s.xml">
-      <configuration name="AltFlightsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AltFlightsTest - 2018.07.23 at 17h 24m 09s.xml">
       <configuration name="AltFlightsTest" configurationId="JUnit" />
     </history-entry>
@@ -680,44 +729,85 @@
     <history-entry file="AltFlightsTest - 2018.07.23 at 17h 32m 31s.xml">
       <configuration name="AltFlightsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Array2CountEvensTest - 2018.08.03 at 11h 45m 23s.xml">
+      <configuration name="Array2CountEvensTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2CountEvensTest - 2018.08.03 at 11h 45m 33s.xml">
+      <configuration name="Array2CountEvensTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2CountEvensTest - 2018.08.03 at 11h 46m 29s.xml">
+      <configuration name="Array2CountEvensTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2CountEvensTest_countEvensShouldReturn3AsTheCountOfEvenNumbersWhen21234ArePassed - 2018.08.03 at 11h 46m 37s.xml">
+      <configuration name="Array2CountEvensTest.countEvensShouldReturn3AsTheCountOfEvenNumbersWhen21234ArePassed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array2CountEvensTest - 2018.08.03 at 11h 48m 59s.xml">
+      <configuration name="Array2CountEvensTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-262" y="-1088" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Job Explorer" />
-      <window_info anchor="bottom" id="Build" weight="0.21507761" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="right" id="Palette" order="19" />
+      <window_info anchor="bottom" id="DB Execution Console" order="27" />
+      <window_info anchor="bottom" id="Event Log" order="27" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="19" />
+      <window_info id="Capture Tool" order="23" />
+      <window_info id="Designer" order="23" />
+      <window_info id="Project Explorer" order="23" />
+      <window_info id="Job Explorer" order="23" />
+      <window_info anchor="bottom" id="Console" order="27" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="UI Designer" order="23" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="DB Browser" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3292683" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17558886" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="DB Browser" order="23" />
+      <window_info anchor="bottom" id="Messages" order="27" weight="0.32850778" />
+      <window_info anchor="right" id="Palette&#9;" order="19" />
+      <window_info id="Image Layers" order="23" />
+      <window_info anchor="right" id="Capture Analysis" order="19" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15924276" />
+      <window_info anchor="bottom" id="Version Control" order="27" />
+      <window_info anchor="bottom" id="Terminal" order="27" weight="0.3292683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22644539" />
+      <window_info anchor="right" id="Gradle" order="19" />
+      <window_info anchor="right" id="Theme Preview" order="19" />
+      <window_info id="Favorites" order="23" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="DB Browser" order="25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" order="29" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17558886" />
+      <window_info anchor="right" id="Capture Analysis" order="21" />
+      <window_info id="Favorites" order="25" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="29" visible="true" weight="0.3292683" />
+      <window_info id="Job Explorer" order="25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="21" />
+      <window_info anchor="right" id="Palette&#9;" order="21" />
+      <window_info anchor="right" id="Maven Projects" order="21" />
+      <window_info id="Project Explorer" order="25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="25" />
+      <window_info anchor="right" id="Theme Preview" order="21" />
+      <window_info id="Capture Tool" order="25" />
+      <window_info anchor="bottom" id="Version Control" order="29" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Console" order="29" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="DB Execution Console" order="29" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="29" weight="0.21507761" />
+      <window_info anchor="bottom" id="Messages" order="29" />
+      <window_info anchor="right" id="Gradle" order="21" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Designer" order="25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -725,34 +815,40 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/AltPairs.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="1530">
+          <caret line="120" column="17" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AltPairsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/String2RepeatFrontTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="102">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Warmup2.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="183">
+          <caret line="2328" column="24" lean-forward="true" selection-start-line="2328" selection-start-column="12" selection-end-line="2328" selection-end-column="24" />
+          <folding>
+            <element signature="e#70749#70750#0" expanded="true" />
+            <element signature="e#70802#70803#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltPairs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/AltPairsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warmup2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -764,9 +860,220 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltPairs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/AltPairsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warmup2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/AltFlightsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltPairs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/AltPairsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warmup2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/AltFlightsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/String2GetSandwishTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/String2GetSandwish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/String2RepeatFront.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/String2EndOther.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/String2BobThere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="173" column="25" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltPairs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/AltPairsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warmup2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/AltFlightsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/String2PlusOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltPairs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/AltPairsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warmup2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/AltFlightsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/String2WordEndsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/String2WordEnds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/String2PlusOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/ArrayFix23Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/ArrayMaxTribleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/ArrayMaxTrible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/ArrayReverse3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AltPairs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/AltPairsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warmup2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/AltFlights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/AltFlightsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/ArraySum3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/warmup2/Array2CountEvensTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/Array2CountEvens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/warmup2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="536">
+            <caret line="230" column="25" selection-start-line="230" selection-start-column="25" selection-end-line="230" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
