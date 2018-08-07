@@ -257,3 +257,12 @@ Given an array of ints, return true if the value 3 appears in the array exactly 
 haveThree([3, 1, 3, 1, 3]) → true
 haveThree([3, 1, 3, 3]) → false
 haveThree([3, 4, 3, 3, 4]) → false
+
+### Array 2 ShiftLeft
+
+Return an array that is "left shifted" by one -- so {6, 2, 5, 3} returns {2, 5, 3, 6}. You may modify and return the given array, or return a new array.
+
+
+shiftLeft([6, 2, 5, 3]) → [2, 5, 3, 6]
+shiftLeft([1, 2]) → [2, 1]
+shiftLeft([1]) → [1]
